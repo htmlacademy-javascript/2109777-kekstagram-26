@@ -1,8 +1,8 @@
 
 // Создаёт данные для страницы
 
-import { NAMES, DESCS, MESSAGES } from "./moc-d";
-import { getRandomPositiveInteger } from "./util";
+import { NAMES, DESCS, MESSAGES } from './moc-d';
+import { getRandomPositiveInteger } from './util';
 
 const commentIds = [];
 
